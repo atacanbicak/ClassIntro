@@ -11,13 +11,26 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "..\Matematik\M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "..\DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{2EF13A4C-A25C-42DB-B8DE-7FFD7D168BCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "..\ClassMetotDemo\ClassMetotDemo.csproj", "{4DF7EF76-92C2-442D-9957-66684910BE59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "..\ClassMetotDemo\ClassMetotDemo.csproj", "{4DF7EF76-92C2-442D-9957-66684910BE59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "..\OOP1\OOP1.csproj", "{D599E939-6D6E-40FF-BFBF-9027F0CBD59A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "..\OOP1\OOP1.csproj", "{D599E939-6D6E-40FF-BFBF-9027F0CBD59A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "..\Koleksiyonlar\Koleksiyonlar.csproj", "{89B38B09-4F20-4E34-9AC4-32521DED497B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "..\Koleksiyonlar\Koleksiyonlar.csproj", "{89B38B09-4F20-4E34-9AC4-32521DED497B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "..\GenericsIntro\GenericsIntro.csproj", "{CD3E8156-725B-422E-90A6-243904B57882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "..\GenericsIntro\GenericsIntro.csproj", "{CD3E8156-725B-422E-90A6-243904B57882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "..\ReferenceTypes\ReferenceTypes.csproj", "{0A7F45A5-B28A-4845-B529-E1A63417F7F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{20AC2BFE-5B9B-41FD-AC06-E728799CFACD}"
+	ProjectSection(SolutionItems) = preProject
+		Ders Sırası.txt = Ders Sırası.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "..\Constructors\Constructors.csproj", "{9163ED02-D2D0-4E20-98C8-36561708FC96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "..\Generics\Generics.csproj", "{46E5B28B-5220-4D14-A912-DCF12E019A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryHomework", "..\DictionaryHomework\DictionaryHomework.csproj", "{D986444B-CA72-4FB5-8B80-1F1173598C77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +70,22 @@ Global
 		{CD3E8156-725B-422E-90A6-243904B57882}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD3E8156-725B-422E-90A6-243904B57882}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD3E8156-725B-422E-90A6-243904B57882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7F45A5-B28A-4845-B529-E1A63417F7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7F45A5-B28A-4845-B529-E1A63417F7F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7F45A5-B28A-4845-B529-E1A63417F7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7F45A5-B28A-4845-B529-E1A63417F7F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9163ED02-D2D0-4E20-98C8-36561708FC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9163ED02-D2D0-4E20-98C8-36561708FC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9163ED02-D2D0-4E20-98C8-36561708FC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9163ED02-D2D0-4E20-98C8-36561708FC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E5B28B-5220-4D14-A912-DCF12E019A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E5B28B-5220-4D14-A912-DCF12E019A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E5B28B-5220-4D14-A912-DCF12E019A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E5B28B-5220-4D14-A912-DCF12E019A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D986444B-CA72-4FB5-8B80-1F1173598C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D986444B-CA72-4FB5-8B80-1F1173598C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D986444B-CA72-4FB5-8B80-1F1173598C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D986444B-CA72-4FB5-8B80-1F1173598C77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
